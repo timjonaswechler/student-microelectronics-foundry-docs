@@ -21,16 +21,14 @@ projects/
     ├── index.md
     ├── process.md
     └── results.md
-````
+```
 
 A project page should briefly describe:
 
-* objective;
-* responsible contributors;
-* current status;
-* methods;
-* results;
-* open tasks;
-* related documents.
-
-```
+* `objective`;
+* `responsible contributors`;
+* `current status`;
+* `methods`;
+* `results`;
+* `open tasks`;
+* `related documents`.
