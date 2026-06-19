@@ -6,13 +6,13 @@ This section explains how to use and contribute to the SMF documentation.
 
 Use the navigation menu or search function to find:
 
-- processes;
-- equipment;
-- safety information;
-- projects;
-- organizational documents.
+- `processes`;
+- `equipment`;
+- `safety information`;
+- `projects`;
+- `organizational documents`.
 
-## Contributing
+## [Contributing](/getting-started/contributing/)
 
 Documentation can be edited directly through GitHub.
 
